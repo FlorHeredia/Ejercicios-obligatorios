@@ -1,0 +1,79 @@
+
+body{
+    height: 100vh;
+    
+}
+.contenedor1{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    
+    
+   
+}
+
+.contenedor3{
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+}
+.contenedor5y6{
+    height: 30%;
+    display: flex;
+    
+}
+
+.bloqueDer{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+.bloque1 {
+    width: 10%; 
+    background-color: lawngreen;
+}
+.bloque2 {
+    width: 90%;
+    background-color: dimgray;
+    margin-left: 10px
+}
+.bloque3 {
+    height: 10%;
+    background-color: rgb(245, 240, 180);
+    border: black solid;
+    margin: 10px 0;
+}
+.bloque4 {
+    height: 100%;
+    width: 30%;
+    background-color: rgb(204, 11, 204);
+    margin-right: 10px;
+}
+.bloque5 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(6, 136, 196);
+    margin-right: 10px ;
+}
+.bloque6 {
+    height: 100%;
+    width: 50%;
+    background-color: rgb(255, 96, 247);
+}
+.bloque7 {
+    height: 70%;
+    width: 100%;
+    background-color: rgb(247, 164, 56);
+    margin-top: 10px;
+}
+.bloque8 {
+    height: 20%;
+    background-color: rgb(30, 217, 241);
+    border-style: dashed ;
+    margin-top: 10px;
+}
