@@ -52,7 +52,7 @@ body{
     visibility: visible;
 }
 
-.btn1{
+#btn1{
     background-color: black;
     color: white;
     flex-direction: row;
@@ -60,7 +60,7 @@ body{
     
     
 }
-.btn2{
+#btn2{
     background-color: black;
     color: white;
     flex-direction: row;
