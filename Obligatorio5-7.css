@@ -81,11 +81,11 @@ ul li {
     color: purple;
 }
 
+.hover:visited {
+    color: crimson;
+}
 .hover:hover {
     background-color: black;
     color: chocolate;
 }
 
-.hover:visited {
-    color: crimson;
-}
