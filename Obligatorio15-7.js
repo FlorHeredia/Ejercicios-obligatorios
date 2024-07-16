@@ -1,7 +1,7 @@
-let btnDer= document.getElementById(".boton-derecho");
-let btnIzq= document.getElementById(".boton-izquierdo");
-let cajaDer= document.getElementsByClassName("caja-derecha");
-let cajaIzq= document.getElementsByClassName("caja-izquierda");
+let btnDer= document.getElementById("boton-derecho");
+let btnIzq= document.getElementById("boton-izquierdo");
+let cajaDer= document.getElementsByClassName("btn1");
+let cajaIzq= document.getElementsByClassName("btn2");
 
 
 btnDer.addEventListener("click", function() {
